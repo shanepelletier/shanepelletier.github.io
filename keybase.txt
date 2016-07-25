@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/shanepelletier
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://shanepelletier.me
+  * I am shanepelletier (https://keybase.io/shanepelletier) on keybase.
+  * I have a public key with fingerprint 6361 4796 5930 22E4 3CCA  E5B4 2E6F CC13 186C AD54
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01015cb4874ab413f0a7eac3adaaff3f12d8fe76e11a6c17b8280e0d9f5f52258cc40a",
+            "fingerprint": "63614796593022e43ccae5b42e6fcc13186cad54",
+            "host": "keybase.io",
+            "key_id": "2e6fcc13186cad54",
+            "kid": "01015cb4874ab413f0a7eac3adaaff3f12d8fe76e11a6c17b8280e0d9f5f52258cc40a",
+            "uid": "40ef1de52af87a6ff9030e18a1229d19",
+            "username": "shanepelletier"
+        },
+        "service": {
+            "hostname": "shanepelletier.me",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1469451266,
+    "expire_in": 157680000,
+    "prev": "a8a2fd24b87767fbef005a4e04888beed4154be8cc088e74569f39acc77c0cb8",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.53
+Comment: https://keybase.io/crypto
+
+yMIkAnicrVJbSBVBGF7NpE4XQohuErIQFajM7M7Ozh5Iu1F0oQvdyzzNzv6jm7bn
+dHY1xQ49hEFEEUUFmUURRTezC90gsAv1UPlQiSVRBtENChKiDoS0K/XWY/MyzP9/
+3zff9/PfHzFIieVc+dg7d/eSU0tyHt05XqesOjg8t0m1k06jGm9Sa2DggloH/CBR
+4zpqXEUYYUPYhJmE2wTrEnETuNC5w7mUusSawySYFDDmVGDTZhpDgBxLGtLQNIMJ
+QRBXi1XpelWQTqVdLwhlqU4xMS1qWDrSNCC6EBwMm2hApRBYx4wK7hgkJFYn/YgR
+mrO5D6VuMqyFj8SAvX/g/7PvugE5gkBiBwyNS2ZyKqWFdASYcaxploOtCOhD2uOb
+IET71dyDFNTWQuBCWs0Uq2Gv3hUQjTfK809caVgrVlPpZJAUydqwXR0EqXjEDhpT
+EXwL2Ik/Qgnb9ZxwoiGhHtK+m/TUOA6RInAjZUyoRQysUVqsQkPKTUPCjRCGSRkK
+T/QN1IeSnHFNOhqxmWlSU9ogETI4AUQYYzaAQ7BBbAingRgDkxjUkrrFhTBNgYTN
+1CjaZi+pxo3QJq+KQrlVHg/q0qBm7nZU5Ck5MSV/cG60aUps6Ki/+1c+Y4hywnm3
+/Ghnn8h0V+Z/nTL9+rQbLeMbLp2jEJtQUHj+9fSrG5sv7Fr6Ym/edjyIX0S3W9sK
+tpZd6Z5RUvime5LYNr9NbumPHR++WJlV0DfyafYZTB78cOTUI98ym4de7qLXh505
+eHLdGr9r5vf743q/nd7PX719MPrE/vUtFU+uNkz0g41+y4LbE7Zlb3V19O+e3fPz
+l8cfy6l1i5o6IVOUXdZX0nM2t/57648Fox/BmzEK25P99CVxMkGUhQd2Hru2orJv
+w7Xm/Dmd5evK6MtW5/CsEfvWfl75eUrz0axWs7yo6OaO9b092mvzzPv+ec1K+6G1
+hnvz3rFljavzxv5c/Tzzo/3Db6khR5Y=
+=y6vB
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/shanepelletier
+
+==================================================================
