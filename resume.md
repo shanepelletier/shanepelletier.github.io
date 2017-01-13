@@ -1,4 +1,4 @@
-#Education:#
+# Education:
  
 **September 2015 – Present**
 - Concurrent Bachelor of Computer Science & Bachelor of Science in Applied Physics
@@ -8,7 +8,7 @@
 - John Caldwell School (Honours)
   <br>Grand Falls, New Brunswick
 
-#Work Experience:#
+# Work Experience:
  
 **September 2016 – April 2016** 
 - University of New Brunswick, Fredericton, New Brunswick
@@ -23,7 +23,7 @@
   - Maintained virtual server infrastructure in order to deliver the application to the end user
   - Wrote business process documents and other documents when needed
 
-#Volunteer Experience:#
+# Volunteer Experience:
  
 **September 2015 & 2016** 
 - Cystic Fibrosis Canada, Fredericton, New Brunswick
@@ -43,7 +43,7 @@
   - Raised money from members of the community to donate towards fighting hunger in developing nations
   - Spent thirty hours without food as donation incentive, while also attending high school classes during the day 
   
-#Personal Projects:#
+# Personal Projects:
 **GitHub - https://github.com/shanepelletier** 
  
 **2015     StarGen – Google Play: http://bit.ly/1xM6TbN**
@@ -54,7 +54,7 @@
 - Developed to gain experience with game development
 - Cross-platform, has been compiled and ran on both Windows and Linux
 
-#Skills:#
+# Skills:
  
 **Programming Skills:** C++, Java, Git, Ruby on Rails, MEAN (MongoDB, Express, AngularJS, Node.js) stack, Android, HTML5, JavaScript, CSS 
  
@@ -68,7 +68,7 @@
  
 **Assorted:** UAV UNB, UNB Rocket Club, Fredericton Developer User Group, FREDTalks 2016, TME Lunch & Learn 
  
-#Awards:#
+# Awards:
 - Ward Chipman Founder’s Scholarship – 2015-2016
 - Purdy MacDonald Scholarships & Bursaries – 2015-2016, 2016-2017
 - Schulich Leader Nominee – 2015
