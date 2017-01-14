@@ -1,16 +1,19 @@
 # Education:
  
 **September 2015 – Present**
+
 - Concurrent Bachelor of Computer Science & Bachelor of Science in Applied Physics
   <br>Fredericton, New Brunswick  Current GPA: 3.1
  
 **September 2002 – June 2015**  
+
 - John Caldwell School (Honours)
   <br>Grand Falls, New Brunswick
 
 # Work Experience:
  
 **September 2016 – April 2016** 
+
 - University of New Brunswick, Fredericton, New Brunswick
   - **Lab Assistant/Marker**
   - Assisted students by answering their questions in an undergraduate computer science laboratory
