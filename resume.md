@@ -3,7 +3,8 @@
 **September 2015 – Present**
 
 - Concurrent Bachelor of Computer Science & Bachelor of Science in Applied Physics
-  <br>Fredericton, New Brunswick  Current GPA: 3.1
+  <br>Fredericton, New Brunswick
+  <br>Current GPA: 3.1
  
 **September 2002 – June 2015**  
 
