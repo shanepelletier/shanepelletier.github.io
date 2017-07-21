@@ -16,40 +16,40 @@
 **September 2016 – April 2016** 
 
 - University of New Brunswick, Fredericton, New Brunswick
-  - **Lab Assistant/Marker**
-  - Assisted students by answering their questions in an undergraduate computer science laboratory
-  - Marked all work done by the students, both inside the laboratory and outside 
+    - **Lab Assistant/Marker**
+    - Assisted students by answering their questions in an undergraduate computer science laboratory
+    - Marked all work done by the students, both inside the laboratory and outside 
  
 **May 2016 – August 2016**
 
 - FitPath Solutions Inc., Fredericton, New Brunswick
-  - **Full Stack Web Developer**
-  - Developed key functionality in a web application designed for fitness coaches including the ability to add clients to the application and the ability to communicate with clients via SMS using the application
-  - Maintained virtual server infrastructure in order to deliver the application to the end user
-  - Wrote business process documents and other documents when needed
+    - **Full Stack Web Developer**
+    - Developed key functionality in a web application designed for fitness coaches including the ability to add clients to the application and the ability to communicate with clients via SMS using the application
+    - Maintained virtual server infrastructure in order to deliver the application to the end user
+    - Wrote business process documents and other documents when needed
 
 # Volunteer Experience:
  
 **September 2015 & 2016** 
 
 - Cystic Fibrosis Canada, Fredericton, New Brunswick
-  - **Shinerama** 
-  - Went door-to-door in community to raise money in support of Cystic Fibrosis Canada
-  - Educated members of the community about Cystic Fibrosis 
+    - **Shinerama** 
+    - Went door-to-door in community to raise money in support of Cystic Fibrosis Canada
+    - Educated members of the community about Cystic Fibrosis 
  
 **October 2012**
 
 - John Caldwell School, Grand Falls, New Brunswick      
-  - **Leave it to John**
-  - Raised money for school activities by performing work for members of the community
-  - Work included cording wood and cleaning yards 
+    - **Leave it to John**
+    - Raised money for school activities by performing work for members of the community
+    - Work included cording wood and cleaning yards 
  
 **April 2012**  
 
 - World Vision, Grand Falls, New Brunswick      
-  - **30 Hour Famine**
-  - Raised money from members of the community to donate towards fighting hunger in developing nations
-  - Spent thirty hours without food as donation incentive, while also attending high school classes during the day 
+    - **30 Hour Famine**
+    - Raised money from members of the community to donate towards fighting hunger in developing nations
+    - Spent thirty hours without food as donation incentive, while also attending high school classes during the day 
   
 # Personal Projects:
 **GitHub - https://github.com/shanepelletier** 
